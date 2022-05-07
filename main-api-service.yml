@@ -11,3 +11,6 @@ spring:
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
 contents:
   value: test
+
+jwt:
+  secret: 81e2e92ef623baa00b6486ddb3895f24ffffade5ae912515e2452aacb410fd0e
